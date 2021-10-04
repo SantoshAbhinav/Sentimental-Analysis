@@ -1,4 +1,4 @@
-# Sntimental-Analysis
+# Sentimental-Analysis
 My First Machine Learning Project
 In this Project, I have performed sentimental Analysis on Twitter dataset.
 Have analysed most frequent words used by male and female in their respective tweets.
